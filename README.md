@@ -55,4 +55,6 @@ Se você deseja contribuir para o projeto, siga as etapas abaixo:
 
 ---
 
-> 💡 **Feito com amor por** [@primonmari](https://github.com/primonmari) 💚
+> 💡 **Este projeto foi desenvolvido com amor por** [@primonmari](https://github.com/primonmari) 💚
+> <br>
+>  Sinta-se à vontade para contribuir ou fazer melhorias!
