@@ -1,0 +1,113 @@
+body{
+  margin: 0;
+  background-color: #e2fbd7;
+  font-family: sans-serif;
+  overflow: hidden; /* Esconde bugs que passam da tela */
+}
+
+h1 {
+  position: absolute;
+  bottom: 50%;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 32px;
+  color: #1f3325;
+  font-weight: 700;
+  text-align: center;
+}
+
+.planta {
+  position: absolute;
+  bottom: 20px;
+  width: 180px;
+  weight: 200px;
+  transition: left 0.03s linear;
+
+}
+
+.bug{
+  position: absolute;
+  top: -60px;
+  width: 160px;
+  height: 50px;
+  text-align: center;
+  color: #000;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.bug img {
+  width: 50px;
+  display: block;
+}
+
+.error-msg{
+  font-family: monospace;
+  background-color: rgba(255, 0, 0, 0.1);
+  padding: 2px 6px;
+  border-radius: 4px;
+  margin-bottom: 2px;
+  font-size: 18px;
+
+}
+
+#placar {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #1f3325;
+  background: rgba(255, 255, 255, 0.7);
+  padding: 6px 12px;
+  border-radius: 8px;
+}
+
+#game-over {
+  display: none;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(255, 255, 255, 0.85);
+  padding: 30px 40px;
+  border-radius: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+  text-align: center;
+  width: 300px;
+  z-index: 100;
+}
+
+#game-over h2 {
+  color: #d60000;
+  font-size: 28px;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+#game-over p {
+  font-size: 16px;
+  color: #333;
+  margin-top: 10px;
+  font-style: italic;
+  
+}
+
+#game-over button {
+  background-color: #1f3325;
+  color: white;
+  border: none;
+  padding: 10px 18px;
+  font-size: 16px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#game-over button:hover {
+  background-color: #355e43;
+}
+
+
+
+
