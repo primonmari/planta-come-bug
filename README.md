@@ -4,7 +4,11 @@
 Um mini game onde **bugs de programação** são devorados por uma planta! Ideal para devs que adorariam ver os bugs desaparecerem rapidinho. 😅
 
 
-[![Jogue Agora](https://img.shields.io/badge/Jogar%20Agora-Click%20Here-brightgreen)](https://primonmari.github.io/planta-come-bug)
+<a href="https://primonmari.github.io/planta-come-bug" target="_blank">
+  <img src="https://img.shields.io/badge/Jogar%20Agora-Click%20Here-brightgreen" alt="Jogar Agora" />
+</a>
+
+
 
 ---
 
