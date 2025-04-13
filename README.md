@@ -52,4 +52,4 @@ Se você deseja contribuir para o projeto, siga as etapas abaixo:
 
 ---
 
-> 💡 **Feito com amor por** [@primonmari](https://github.com/primonmari) 💙
+> 💡 **Feito com amor por** [@primonmari](https://github.com/primonmari) 💚
